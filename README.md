@@ -10,3 +10,6 @@
 - ⚡ Fun fact: ...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fxjzz&theme=dark&show_icons=true)
+
+
+https://www.murphysec.com/accept?code=d34dc5a3777a0e952e43fcb63faa0a7f&type=1&from=2&t=2
